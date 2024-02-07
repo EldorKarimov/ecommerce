@@ -33,6 +33,7 @@ INSTALLED_APPS = [
     'shared',
     'accounts',
     'store',
+    'cart',
 ]
 
 MIDDLEWARE = [
